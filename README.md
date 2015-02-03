@@ -7,7 +7,7 @@ generates a patch for turning the first into the second.
 
 Yes.
 
-## Obtainery
+## Obtention
 
 Leiningen coordinates: `[com.gfredericks/minus "0.1.0"]`
 
